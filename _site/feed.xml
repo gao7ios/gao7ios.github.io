@@ -4,10 +4,10 @@
     <title>Gao7 iOS</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://gao7ios.github.io/gao7iOS/</link>
-    <atom:link href="http://gao7ios.github.io/gao7iOS/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 Jan 2016 16:37:08 +0800</pubDate>
-    <lastBuildDate>Sun, 24 Jan 2016 16:37:08 +0800</lastBuildDate>
+    <link>http://gao7ios.github.io/blog/</link>
+    <atom:link href="http://gao7ios.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 24 Jan 2016 16:45:59 +0800</pubDate>
+    <lastBuildDate>Sun, 24 Jan 2016 16:45:59 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Mon, 25 Jan 2016 00:15:12 +0800</pubDate>
-        <link>http://gao7ios.github.io/gao7iOS/jekyll/update/2016/01/25/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://gao7ios.github.io/gao7iOS/jekyll/update/2016/01/25/welcome-to-jekyll.html</guid>
+        <link>http://gao7ios.github.io/blog/jekyll/update/2016/01/25/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://gao7ios.github.io/blog/jekyll/update/2016/01/25/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
