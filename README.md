@@ -1,2 +1,4 @@
 # gao7ios.github.io
-gao7iOS blog
+
+Gao7iOS Blog Site. Your Are Welcome!
+http://gao7ios.github.io
